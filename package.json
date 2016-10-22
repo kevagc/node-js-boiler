@@ -1,0 +1,27 @@
+{
+  "name": "data-gov-sg",
+  "version": "1.0.0",
+  "description": "Experimental Project with SG Government Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevagc/data-gov-sg.git"
+  },
+  "keywords": [
+    "data",
+    "government",
+    "singapore"
+  ],
+  "author": "Kevin Ang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevagc/data-gov-sg/issues"
+  },
+  "homepage": "https://github.com/kevagc/data-gov-sg#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
